@@ -31,7 +31,7 @@ p{
 
 a{
 	text-decoration: none;
-	color: #d65814;
+	color: #662E91;
 }
 
 a:hover{
@@ -414,7 +414,7 @@ footer p {
 footer p a { 
 	font-size: 13px;
 	line-height: 24px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	letter-spacing: 0.055em;
 	color: #fff;
 }
@@ -438,7 +438,7 @@ footer .social a  i {
 	height: 100%;
 	line-height: 30px;
 	border-radius: 50%;
-	border: 1px dashed #d65814;
+	border: 1px dashed #662E91;
 }
 
 footer .copy-right {

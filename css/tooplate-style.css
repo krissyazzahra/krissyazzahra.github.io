@@ -486,8 +486,30 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
     width: 100%;
 }
 
+/*tambahanku buat sicial*/
+
+p{
+	margin:0;
+	padding:0;
+	color: #787878;
+}
+
+a{
+	text-decoration: none;
+	color: #662E91;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #a93c01;
+}
+
+a:hover,a:active,a:focus {
+	outline: 0;
+}
+
 footer {
-	/*margin-top: 80px;*/
+	margin-top: 80px;
 	padding: 50px 0;
 	background: #662E91;
 	text-align: center;
@@ -502,7 +524,7 @@ footer p {
 footer p a { 
 	font-size: 13px;
 	line-height: 24px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	letter-spacing: 0.055em;
 	color: #fff;
 }
@@ -526,7 +548,7 @@ footer .social a  i {
 	height: 100%;
 	line-height: 30px;
 	border-radius: 50%;
-	border: 1px dashed #d65814;
+	border: 1px dashed #662E91;
 }
 
 footer .copy-right {
@@ -552,6 +574,8 @@ footer .copy-right {
 	word-spacing: -0.15em;
 	font-weight: 300;
 }*/
+
+
 
 .grid-item figure figcaption, .grid-item figure figcaption > a {
     position: absolute;
