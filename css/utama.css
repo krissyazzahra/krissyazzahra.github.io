@@ -1,0 +1,25 @@
+.imgR {
+    widht: 450px;
+    margin: auto;
+}
+
+.imgR img {
+    width: 450px;
+}
+
+@media (max-widht: 1024px) {
+    .imgR img {
+        width: 400px;
+    }
+}
+@media (max-widht: 800px) {
+    .imgR img {
+        width: 300px;
+    }
+}
+@media (max-widht: 768px) {
+    .imgR img {
+        width: 250px;
+    }
+}
+
